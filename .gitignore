@@ -107,5 +107,6 @@ dist
 .vs
 
 auth.json
+mysql.json
 
 befehle_test.json
