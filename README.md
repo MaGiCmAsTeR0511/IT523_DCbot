@@ -1,3 +1,8 @@
+<p align="center">
+        <img src=".\readme_images\symbolApplikation.png">
+</p>
+
+
 # discordbot
 
 #### This repository for an School project od the [Ferdinand Porsche FernFH](https://www.fernfh.ac.at/). It uses [discordjs](https://discord.js.org/#/) to interact with Discord.
