@@ -24,7 +24,6 @@ To use that Bot for your Applikation you have to generate an auth.json file wher
 }
 ```
 
-
 ### Database
 for use with the Mysql Database you have to generate a file that's named <b> mysql.json</b> in the root directory.
 This file must have this structure:
