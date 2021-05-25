@@ -81,7 +81,6 @@ client.on("message", function (message) {
                 checkifkursveranstaltungexists(args[0], function (result1) {
                     if (result1 === true) {
                         getAnmeldungen(user, args[0], function (result2) {
-                            console.log(result2)
                             if (result2 === false) {
                                 setAnmeldung(user, args[0], function (result3) {
                                 });
