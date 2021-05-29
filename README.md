@@ -5,7 +5,7 @@
 
 # discordbot
 
-#### This repository for an University project of the [Ferdinand Porsche FernFH](https://www.fernfh.ac.at/). It uses [discordjs](https://discord.js.org/#/) to interact with Discord.
+#### This repository is for an University project of the [Ferdinand Porsche FernFH](https://www.fernfh.ac.at/). It uses [discordjs](https://discord.js.org/#/) to interact with Discord.
 
 ## requirements
 This Bot needs [nodejs](https://nodejs.org/en/download/) and <b>npm</b> to work properly. <b>npm</b> is included in nodejs. 
